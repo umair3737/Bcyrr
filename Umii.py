@@ -83,7 +83,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
 \033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Djumii/Umair320
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Djumii/Umair.git
 \033[1;91m======================================="""
 
 def tik():
